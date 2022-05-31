@@ -1,4 +1,7 @@
 /* headder part */
+body{
+    overflow-x: hidden;
+}
 .navlogin{
     margin-left: auto;
 }
