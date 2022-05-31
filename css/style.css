@@ -55,6 +55,16 @@ header{
 .navbarc{
     padding: 20px;
 }
+.navbarc ul{
+    padding-right: 70px;
+}
+.menulist{
+   
+    position: absolute;
+    top: 35px;
+    right: 2px;
+
+}
 .menulist{
     padding-top: 14px;
 
