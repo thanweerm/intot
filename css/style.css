@@ -76,6 +76,7 @@ header{
 .headercontent{
     margin-left: 15%;
     padding-top: 80px;
+    text-align: left;
 }
 .headerimage{
     width: 90%;
